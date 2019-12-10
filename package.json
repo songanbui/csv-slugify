@@ -1,0 +1,30 @@
+{
+  "name": "csv-slugify",
+  "version": "1.0.0",
+  "description": "A tool to slugify content into URLs in CSV files.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songanbui/csv-slugify.git"
+  },
+  "author": "Song An BUI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/songanbui/csv-slugify/issues"
+  },
+  "homepage": "https://github.com/songanbui/csv-slugify#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.17.0"
+  }
+}
